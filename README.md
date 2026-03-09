@@ -11,12 +11,19 @@ This project detects malaria infected cells using deep learning CNN model.
 - Matplotlib
 
 ## Dataset
-Malaria cell images dataset.
+https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+
 
 ## How to Run
 1. Install requirements
 2. Run train.py
 3. Use predict.py for detection
+Explanation:
+1. Install Python libraries
+pip install -r requirements.txt
+
+2. Run the program
+python malaria_detection.py
 
 ## Author
 Manish Kumar
